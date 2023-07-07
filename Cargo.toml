@@ -7,3 +7,8 @@ edition = "2021"
 
 [dependencies]
 flate2 = "1.0.26"
+
+
+# [[bin]]
+# name = "file_compressor"
+# path = "src/main-file_compressor.rs"
